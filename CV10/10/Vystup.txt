@@ -1,0 +1,5 @@
+Statistiky souboru Vstup.txt:
+ Pismena: 72
+ Cislice: 7
+ Slova  : 19
+ Vety   : 1
